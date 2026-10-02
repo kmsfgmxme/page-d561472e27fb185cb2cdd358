@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d815ff47213abd5016c4b9d4",
+  "owner": "kmsfgmxme",
+  "repo": "page-d561472e27fb185cb2cdd358",
+  "title": "星愿云(SWCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d561472e27fb185cb2cdd358",
+      "a": "星愿云(SWCloud)",
+      "b": "",
+      "entity": "星愿云(SWCloud)",
+      "brand": "星愿云(SWCloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "922afc7d6d37a2b008b06b254e5c5bd127c14f89e9aa3f5fa92fe705aaf5aa33",
+      "content": {
+        "keyword1": "星愿云(SWCloud)",
+        "keyword2": "",
+        "primary_entity": "星愿云(SWCloud)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "星愿云(SWCloud)提供稳定可靠的机场订阅与VPN梯子网络加速服务，支持多平台客户端官方下载，覆盖流媒体解锁、游戏加速与跨境办公场景。",
+          "AI_DESCRIPTION": "星愿云(SWCloud)提供稳定可靠的机场订阅与VPN梯子网络加速服务，支持多平台客户端官方下载，覆盖流媒体解锁、游戏加速与跨境办公场景。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#FFF8F4;color:#3D322F;font-size:16px;line-height:1.65}a{color:#C94C3C}header{background:#FFFDFB;border-bottom:1px solid #F3D5CC}.wrap{max-width:980px;margin:0 auto;padding:0 18px}.nav{display:flex;flex-wrap:wrap;gap:8px 18px;padding:14px 0;font-size:14px}.nav a{text-decoration:none;color:#8A4A3E}.hero{padding:72px 18px 56px;text-align:center}h1{font-size:2.15rem;line-height:1.3;color:#C23B2E;margin:0 0 14px;letter-spacing:.02em}.lead{margin:0 auto;max-width:620px;color:#5E4C47;font-size:1.05rem}main{padding-bottom:48px}h2{font-size:1.45rem;color:#B13228;margin:40px 0 14px;padding-bottom:8px;border-bottom:2px solid #F2C4B8}h3{font-size:1.12rem;color:#D14E3E;margin:20px 0 8px}p,li{margin:0 0 10px}.plans{display:flex;flex-wrap:wrap;gap:16px;margin-top:12px}.card{flex:1 1 260px;background:#fff;border:1px solid #F0D2C8;border-radius:10px;padding:18px 16px 16px}.card.hot{border:2px solid #E25A48;background:#FFF4F0}.tag{display:inline-block;background:#E25A48;color:#fff;font-size:12px;padding:2px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:1.35rem;font-weight:700;color:#D64535;margin:6px 0}.annual{font-size:13px;color:#7A5C55}.feats{margin:10px 0 0;padding-left:1.1em;font-size:14px}.dl-box{background:#fff;border:1px solid #F0D2C8;border-radius:10px;padding:16px}.dl-box a{margin-right:12px;display:inline-block;margin-bottom:6px}details{background:#fff;border:1px solid #F0D2C8;border-radius:8px;margin-bottom:10px;padding:10px 14px}summary{font-weight:600;color:#C23B2E}details p{margin:8px 0 4px;color:#4A3C38}footer{background:#3E2A26;color:#F6E8E4;padding:28px 0 36px;font-size:14px}footer a{color:#FFB8A8}.ads{background:#5A332E;padding:10px 14px;border-radius:6px;margin-bottom:16px}.friends a{margin-right:14px}@media (max-width:640px){.hero{padding:48px 14px 36px}h1{font-size:1.7rem}.plans{flex-direction:column}.nav{font-size:13px}}</style><header><div class=\"wrap\"><nav class=\"nav\"><a href=\"#\">首页</a><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐方案</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><div class=\"hero\"><div class=\"wrap\"><h1>星愿云(SWCloud)</h1><p class=\"lead\">星愿云(SWCloud)官方网站提供机场订阅、VPN 梯子与网络加速服务。多节点智能分流、原生流媒体解锁与 IPLC 游戏线路，支持主流客户端一键导入，助力跨境办公、影音娱乐与低延迟竞技。</p></div></div><div class=\"wrap\"><section id=\"intro\"><h2>品牌简介</h2><p>星愿云(SWCloud)是面向个人与团队的网络加速品牌，专注机场订阅与 VPN 梯子体验。我们整合优化过的中转与专线节点，强调连接稳定性、流媒体兼容性以及多设备同时在线能力，让用户在官网即可完成套餐选择、订阅获取与客户端下载。</p><p>不同于临时公益节点，星愿云(SWCloud)以可预期的流量套餐与工单响应服务长期使用者。基础线路覆盖日常浏览与社交，旗舰与团队方案进一步提供 IPLC 游戏优化、原生流媒体解锁以及更高并发设备数，适合对延迟和可用性有明确要求的用户。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境远程办公与协作</h3><p>访问海外文档、代码仓库、会议工具时，星愿云(SWCloud)可通过智能分流减少超时与验证码干扰，保持会议与文件同步的连续性。</p><h3>流媒体与内容解锁</h3><p>旗舰版起支持全节点原生流媒体解锁，适合观看常见国际影音平台。基础版提供基础解锁，满足轻度观影需求。</p><h3>游戏加速与低延迟对战</h3><p>IPLC 专线针对热门游戏区域做了路由优化，降低丢包，适合需要稳定延迟的玩家。团队版还可为企业或战队定制路由。</p><h3>学习科研与资料检索</h3><p>学术数据库、公开课与开发者文档访问更顺畅，多设备同时在线方便电脑与平板切换使用。</p><h3>出行与多地切换</h3><p>出差或旅居时一键切换节点，客户端配置跟随订阅更新，无需反复手动改写。</p></section><section id=\"guide\"><h2>操作说明</h2><p>星愿云(SWCloud)采用标准机场订阅模式，主流 Clash、Surge、Shadowrocket、Stash 等客户端均可导入。建议按下列步骤完成首次连接。</p><h3>第一步：在官网选择套餐</h3><p>根据流量、设备数与是否需要 IPLC、全解锁，选择基础版、旗舰版或团队版。按年付可获得页面标示的优惠价。</p><h3>第二步：获取订阅地址</h3><p>完成开通后，在用户中心复制通用订阅链接。请妥善保管，避免公开分享导致流量被盗用。</p><h3>第三步：下载对应客户端</h3><p>前往本页客户端下载区域，按系统选择 Windows、macOS、Android 或 iOS 客户端。iOS 用户通常使用商店内已有的 Shadowrocket 或 Stash 等应用导入订阅。</p><h3>第四步：导入并更新节点</h3><p>在客户端选择从 URL 更新订阅，粘贴链接后拉取节点列表。建议开启自动更新，以便线路调整及时同步。</p><h3>第五步：选择节点并连接</h3><p>日常浏览可选普通线路，观影选择解锁节点，游戏选择 IPLC 或游戏优化节点。连接成功后即可按场景使用网络加速。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下价格为官网公示档位，便于按流量与设备数选型。旗舰版为大多数个人用户的均衡选择。</p><div class=\"plans\"><div class=\"card\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul class=\"feats\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card hot\"><div class=\"tag\">推荐</div><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul class=\"feats\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul class=\"feats\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"download\"><h2>客户端下载</h2><p>星愿云(SWCloud)不绑定单一闭源客户端，订阅可在主流开源或常用加速器中使用。请从可信渠道获取客户端本体，再用官网订阅链接导入。以下为常见平台指引，下载入口以官方发布页为准，本页提供锚点导航。</p><div class=\"dl-box\"><h3>桌面端</h3><p><a href=\"#download\">Windows 客户端（Clash Meta / Verge 系列）</a><a href=\"#download\">macOS 客户端（ClashX Meta / Surge 兼容）</a></p><h3>移动端</h3><p><a href=\"#download\">Android 客户端（Clash Meta for Android）</a><a href=\"#download\">iOS 通过 App Store 安装 Shadowrocket 或 Stash 后导入订阅</a></p><p>导入后请在客户端内更新订阅并选择规则模式（如规则分流），避免全局模式消耗不必要流量。官网不提供来路不明的安装包，谨防仿冒下载页。</p></div></section><section id=\"faq\"><h2>常见问题</h2><p>以下为星愿云(SWCloud)用户在官网下载、订阅导入与日常加速中最常咨询的问题，建议收藏本页便于查阅。</p><details><summary>星愿云(SWCloud)是机场还是传统 VPN？</summary><p>星愿云(SWCloud)以机场订阅为核心，提供多协议节点与分流规则，可在 Clash 等客户端中当 VPN 梯子使用。相比单一入口的传统 VPN，订阅模式更便于切换线路、按场景选择解锁或游戏节点，并支持多设备共享同一套餐额度。</p></details><details><summary>如何从官网完成客户端下载并导入订阅？</summary><p>先在本页选择系统对应的客户端类型并安装，登录星愿云(SWCloud)用户中心复制订阅 URL，在客户端的订阅或配置页面粘贴并更新。成功拉取节点后，选择规则模式连接即可。若列表为空，请检查链接是否完整、客户端是否允许 HTTP/HTTPS 订阅。</p></details><details><summary>基础版、旗舰版和团队版该如何选择？</summary><p>轻度浏览与三台设备以内可选基础版。需要全解锁、游戏 IPLC 以及优先工单，建议旗舰版。工作室、战队或家庭多成员共用、需要更高流量和定制路由时选择团队版。所有套餐均可按年付降低月均费用。</p></details><details><summary>流量如何计算？用尽后能否继续使用？</summary><p>套餐按自然月重置标示流量。观看高清流媒体和下载会明显消耗额度，建议在客户端开启分流，国内网站直连。流量用尽后连接会受限，可升级套餐或等待下月重置。请勿分享订阅以免额度被他人占用。</p></details><details><summary>是否支持流媒体解锁和游戏加速？</summary><p>基础版提供基础流媒体解锁。旗舰版与团队版强调全节点原生解锁，并包含 IPLC 专线游戏加速优化。实际效果与目标平台风控、当时线路负载有关，遇到个别节目无法播放时可切换解锁节点或联系工单。</p></details><details><summary>设备数超限会怎样？团队如何管理？</summary><p>同时在线超过套餐设备数时，新连接可能失败或挤占旧会话。基础版 3 台、旗舰版 5 台、团队版 20 台。团队版支持企业定制路由与专属客户经理，适合统一分发订阅策略，但仍建议避免将链接发布到公开群组。</p></details><details><summary>节点更新、工单与官方身份如何确认？</summary><p>请通过本官网进入用户中心与工单系统，避免第三方代充。线路会不定期优化，客户端保持订阅自动更新即可。星愿云(SWCloud)不会在页面展示虚构评分或匿名评论，服务说明以套餐条款和工单回复为准。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"ads\">广告合作：品牌与工具类展示咨询请通过官网工单说明来意，本页不放置弹窗或跳转脚本。</div><p class=\"friends\">友情链接：<a href=\"#\">帮助中心</a><a href=\"#\">节点状态</a><a href=\"#\">订阅教程</a><a href=\"#\">服务条款</a><a href=\"#\">网站地图</a></p><p>星愿云(SWCloud) 官方网站 · 机场订阅与 VPN 梯子网络加速 · 客户端请以官网指引下载</p><p>Canonical 与站点地图已在页面头部声明。使用问题优先查阅常见问题后再提交工单。</p></div></footer>",
+          "hash": "6ac78d3f3f75707d59a46e57e7337e532658d067e0e6a8d70a08512617b1e024",
+          "seo": {
+            "title": "星愿云(SWCloud)官网 - VPN梯子网络加速与客户端官方下载",
+            "keywords": "星愿云,SWCloud,星愿云机场,星愿云VPN,梯子,网络加速,加速器,客户端下载,官网下载,IPLC专线,流媒体解锁",
+            "description": "星愿云(SWCloud)提供稳定可靠的机场订阅与VPN梯子网络加速服务，支持多平台客户端官方下载，覆盖流媒体解锁、游戏加速与跨境办公场景。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "54e6d3.cn",
+    "host": "p-d8fa79ad5b.54e6d3.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "chonganrc.cn",
+      "url": "https://chonganrc.cn/",
+      "label": "星愿云(SWCloud)",
+      "apex": "chonganrc.cn",
+      "kind": null,
+      "identity": "pupnjnqu/page-43aa52e98e455066d8a7b165"
+    },
+    {
+      "host": "dayongrc.cn",
+      "url": "https://dayongrc.cn/",
+      "label": "星愿云(SWCloud)",
+      "apex": "dayongrc.cn",
+      "kind": null,
+      "identity": "rybrewsmsrc/page-66d411599df37a37e89edd1f"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "fa4ac0e5cb390163c11c20932111b3c1e162106302fb519cace82bd1743730f2",
+    "sitemap.xml": "9c3163283ce7dc4c87338960a0facfaff64df0930447addf92615ea9858f18c3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a642aad789ec879d935b0c878ad6c2fe3e3bf38b7b56a5fc578122c9afef8e73",
+    "robots.txt": "3147b7b39344fcd6e69e0e730ad2feae7d6175450545c5eef2435e6f447db7a6",
+    "7f3b4047ffd5790ae2b7782ac87a3e7d.txt": "26422b6e22bf1f06c9a379723b9a77c9e28e2f910d5b1647c542b4abafbde003"
+  },
+  "revision": "146833f2ce1ceb4c538754d0a5c9b61ee9b50bbe8490db7f88d59553aa251571"
+}
